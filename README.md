@@ -1,6 +1,6 @@
 # CodeAlpha - CGPA Calculator (C++)
 
-## Description
+## Description (TASK 1)
 This project is a CGPA Calculator built using C++.  
 It calculates GPA for multiple semesters based on grades and credit hours.
 
