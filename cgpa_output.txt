@@ -1,0 +1,52 @@
+
+===== CGPA CALCULATOR =====
+1. Calculate CGPA (Multiple Semesters)
+2. Exit
+Enter your choice: 1
+
+Enter number of semesters: 2
+
+--- Semester 1 ---
+
+Enter number of courses: 2
+
+Course 1:
+Enter grade (O, A+, A, B, C, D, F): A+
+Enter credit hours: 3
+
+Course 2:
+Enter grade (O, A+, A, B, C, D, F): O
+Enter credit hours: 3
+
+--- Course Details ---
+Course 1 | Grade: A+ | Credits: 3
+Course 2 | Grade: O | Credits: 3
+
+Semester GPA: 10.00
+
+--- Semester 2 ---
+
+Enter number of courses: 2
+
+Course 1:
+Enter grade (O, A+, A, B, C, D, F): A
+Enter credit hours: 4
+
+Course 2:
+Enter grade (O, A+, A, B, C, D, F): A+
+Enter credit hours: 3
+
+--- Course Details ---
+Course 1 | Grade: A | Credits: 4.00
+Course 2 | Grade: A+ | Credits: 3.00
+
+Semester GPA: 9.43
+
+🎯 Final CGPA: 9.71
+
+===== CGPA CALCULATOR =====
+1. Calculate CGPA (Multiple Semesters)
+2. Exit
+Enter your choice: 2
+
+Thank you for using CGPA Calculator!
