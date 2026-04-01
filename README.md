@@ -14,5 +14,3 @@ It calculates GPA for multiple semesters based on grades and credit hours.
 g++ main.cpp -o cgpa  
 ./cgpa
 
-## Author
-Esther Abraham
